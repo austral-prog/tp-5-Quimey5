@@ -6,7 +6,7 @@ def max_of_two(x, y):
     else:
         return x
 
-print(max_of_two(3,4))
+
 def max_of_three(x, y, z):
     if x < y and y < z: 
      return z
@@ -14,4 +14,4 @@ def max_of_three(x, y, z):
      return y
     else:
         return x
-print(max_of_two(3,4,5))
+
